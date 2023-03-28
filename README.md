@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Chris (he/him). 
+I'm Chris (he/him). 
 
 I'm Cognitive Scientist, Data Scientist, and Data Engineer. I love finding efficiency through automation and using data to drive decision-making.
 

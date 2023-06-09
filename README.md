@@ -4,7 +4,8 @@ I'm Chris (he/him).
 
 I'm Cognitive Scientist, Data Scientist, and Data Engineer. I love finding efficiency through automation and using data to drive decision-making.
 
-- 🐭 A cool previous project is [Element DeepLabCut](https://github.com/cbroz1/element-deeplabcut) ([Demo Video](https://www.youtube.com/watch?v=8FDjTuQ52gQ))
+- 🔭 I’m currently working on the [Spyglass pipeline](https://github.com/LorenFrankLab/spyglass) with the Loren Frank Lab at UCSF
+- 🐭 A cool previous project is [Element DeepLabCut](https://github.com/cbroz1/element-deeplabcut) ([Demo Video](hteeetps://www.youtube.com/watch?v=8FDjTuQ52gQ))
 - 🧙‍♂️ My current hobby project is a TTRPG called [Deck of Adventures](https://github.com/DeckofAdventures/TheGame/)
 - 💬 Ask me about [my dissertation work](https://www.sciencedirect.com/science/article/pii/S000169181930335X?casa_token=inS2TPkP6MYAAAAA:HqlD4cQMZ5H-dB6LVbjlykO5B95w63iYS8S-97d64kEFARoxuSdeC4KaEqzHbR-8qffqSClsGg)
 - 📫 How to reach me: [email](mailto:CBrozdowski@yahoo.com)
